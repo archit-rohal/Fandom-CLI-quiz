@@ -39,3 +39,4 @@ if(read.keyInYNStrict(' This is a quiz for the Batman fans.\n There will be pena
   else { console.log("End of quiz.\n You total score is", score);}
 }
 else {console.log(" Alright! Have a good day!");}
+
